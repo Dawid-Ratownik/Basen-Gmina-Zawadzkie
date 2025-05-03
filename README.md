@@ -1,7 +1,6 @@
 # Basen-Gmina-Zawadzkie
 <!DOCTYPE html>
 <html lang="pl">
-<head>
     <strong>🕐:</strong> <span id="current-time">--:--</span><br />
     <strong>Status:</strong><br />🔴 - nieczynne
   </div>

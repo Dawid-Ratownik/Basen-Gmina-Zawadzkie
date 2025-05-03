@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-    Basen Zawadzkie<br>
+   <strong>Basen Zawadzkie<br>
     <strong>🕐:</strong> <span id="current-time">--:--</span><br />
     <strong>Status:</strong><br />🔴 - nieczynne
   </div>

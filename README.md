@@ -4,29 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Basen Zawadzkie</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      background: #f0f8ff;
-      color: #333;
-    }
-    .section {
-      margin-bottom: 20px;
-      padding: 10px;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      background: #fff;
-    }
-    .footer {
-      margin-top: 40px;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <div class="section">
     <strong>🕐:</strong> <span id="current-time">--:--</span><br />
     <strong>Status:</strong><br />🔴 - nieczynne
   </div>

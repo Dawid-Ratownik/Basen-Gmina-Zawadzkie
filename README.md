@@ -35,7 +35,7 @@
     <strong>Prognoza na następny dzień:</strong><br />🔴 - nieczynne
   </div>
 
-  <div class="section">
+  <div class="footer">
     <strong>Informacje dodatkowe:</strong><br />
     Brak
   </div>

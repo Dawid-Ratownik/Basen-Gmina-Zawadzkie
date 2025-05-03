@@ -35,12 +35,12 @@
     <strong>Prognoza na następny dzień:</strong><br />🔴 - nieczynne
   </div>
 
-  <div class="footer">
+  <div class="section">
     <strong>Informacje dodatkowe:</strong><br />
     Brak
   </div>
 
-  <div class="footer">
+  <div class="section">
     Ratownik: <strong>Dawid Szramek</strong>
   </div>
 

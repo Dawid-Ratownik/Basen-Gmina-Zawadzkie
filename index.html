@@ -44,8 +44,9 @@
 <strong>Legenda:</strong><br />
     🟢 - czynne<br>
     🟡 - wkrótce otwarty / przerwa<br>
-    🔴 - nieczynny<br>
-  </div>
+    🔴 - nieczynny
+</div>
+  
 
   <div class="section">
     <strong>Dane pogodowe - Zawadzkie:</strong><br />
@@ -81,6 +82,16 @@
   </div>
 
   <script>
+    // Funkcja do wyświetlenia aktualnej daty
+function updateDate() {
+  const now = new Date();
+  const day = now.getDate().toString().padStart(2, "0");
+  const month = (now.getMonth() + 1).toString().padStart(2, "0");
+  const year = now.getFullYear();
+  document.getElementById("current-date").textContent = `${day}.${month}.${year}`;
+}
+
+updateDate();
     // Funkcja do aktualizacji godziny
     function updateTime() {
       const now = new Date();

@@ -36,10 +36,12 @@
 
   
   <div class="section">
-    <strong>Status:</strong><br />🔴- nieczynne<br>
-    <strong>🟢 - czynne<br>
-    <strong>🟡 - wkrótce otwarty/przerwa<br>
-    <strong>🔴 - nieczynny<br>
+    <strong>Status:</strong><br /> <strong> 🔴- nieczynne<br>
+
+<strong>Legenda:</strong><br />
+    🟢 - czynne<br>
+    🟡 - wkrótce otwarty / przerwa<br>
+    🔴 - nieczynny<br>
   </div>
 
   <div class="section">

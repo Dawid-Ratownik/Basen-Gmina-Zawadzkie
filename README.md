@@ -30,9 +30,9 @@
   <h1>Basen Zawadzkie</h1>
 
   <div class="section">
-    <strong>Status:</strong><br />🔴 - nieczynne
+    <strong>Status:</strong><br />🔥 - nieczynne
   </div>
-
+  
   <div class="section">
     <strong>Dane pogodowe - Zawadzkie:</strong><br />
     🕐: <span id="weather-time">--:--</span><br />
@@ -45,16 +45,12 @@
     <strong>Basen duży:</strong><br />
     🕐: 13:00<br />
     🌡️💧: 24°C<br />
-    🧪💧: 1.0 Chlor<br />
-    ⚖️💧: 7.2 pH
   </div>
 
   <div class="section">
     <strong>Basen mały:</strong><br />
     🕐: 13:00<br />
     🌡️💧: 26°C<br />
-    🧪💧: 0.9 Chlor<br />
-    ⚖️💧: 7.3 pH
   </div>
 
   <div class="section">

@@ -37,7 +37,7 @@
   
   <div class="section">
     <strong>Status:</strong><br /> <strong> 🔴- nieczynne<br>
-
+    </div>
 <strong>Legenda:</strong><br />
     🟢 - czynne<br>
     🟡 - wkrótce otwarty / przerwa<br>

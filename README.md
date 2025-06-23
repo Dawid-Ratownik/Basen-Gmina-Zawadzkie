@@ -32,21 +32,23 @@
 
 
 
-
+  <div class="section">
+    <strong>🗓️:</strong> <span id="current-date">--.--.--</span><br>
+    🕐: <span id="weather-time">--:--</span><br />
+  </div>
 
   
   <div class="section">
     <strong>Status:</strong><br /> <strong> 🔴- nieczynne<br>
-    </div>
+
+  </div>
 <strong>Legenda:</strong><br />
     🟢 - czynne<br>
     🟡 - wkrótce otwarty / przerwa<br>
     🔴 - nieczynny<br>
-  </div>
 
   <div class="section">
     <strong>Dane pogodowe - Zawadzkie:</strong><br />
-    🕐: <span id="weather-time">--:--</span><br />
     🌡️: <span id="temperature">--°C</span><br />
     ☁️: <span id="cloudiness">--</span><br />
     🌧️: opady: <span id="precipitation">--</span>
@@ -78,6 +80,16 @@
   </div>
 
   <script>
+    // Funkcja do wyświetlenia aktualnej daty
+function updateDate() {
+  const now = new Date();
+  const day = now.getDate().toString().padStart(2, "0");
+  const month = (now.getMonth() + 1).toString().padStart(2, "0");
+  const year = now.getFullYear();
+  document.getElementById("current-date").textContent = `${day}.${month}.${year}`;
+}
+
+updateDate();
     // Funkcja do aktualizacji godziny
     function updateTime() {
       const now = new Date();

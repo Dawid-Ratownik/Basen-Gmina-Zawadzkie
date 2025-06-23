@@ -29,10 +29,19 @@
 <body>
   <h1>Basen Zawadzkie</h1>
 
-  <div class="section">
-    <strong>Status:</strong><br />🔥 - nieczynne
-  </div>
+
+
+
+
+
   
+  <div class="section">
+    <strong>Status:</strong><br />🔴- nieczynne<br>
+    <strong>🟢 - czynne<br>
+    <strong>🟡 - wkrótce otwarty/przerwa<br>
+    <strong>🔴 - nieczynny<br>
+  </div>
+
   <div class="section">
     <strong>Dane pogodowe - Zawadzkie:</strong><br />
     🕐: <span id="weather-time">--:--</span><br />
